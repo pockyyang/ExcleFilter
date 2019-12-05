@@ -4,7 +4,7 @@ x = 1
 y = 1
 r = 1
 c = 1
-#file1，xlsx is used to  store the data
+#file1.xlsx is used to  store the data
 #Extract data from file2.xlsx
 wb1 = openpyxl.load_workbook('file1.xlsx')
 wb2 = openpyxl.load_workbook('myfile1.xlsx')
